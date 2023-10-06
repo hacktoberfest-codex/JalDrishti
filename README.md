@@ -59,7 +59,6 @@ In the realm of disaster and crisis management, particularly during flooding eve
 
 ![Web1](./screenshots/web1.jpeg)
 ![Web2](./screenshots/web2.jpeg)
-![Web3](./screenshots/web3.jpeg)
 
 
 ## Releases
